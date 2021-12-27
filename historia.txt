@@ -1,1 +1,2 @@
-Esta es la prueba de Concepto general. La idea es aprender mucho de tecnología
+Esta es la prueba de Concepto general. La idea es aprender mucho de tecnologia.
+Hacer toda la escuela de ML y Google cloud y los que me faltan de coursera
