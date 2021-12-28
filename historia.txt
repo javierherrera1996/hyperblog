@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Esta es la prueba de Concepto general. La idea es aprender mucho de tecnologia.
 Hacer toda la escuela de ML y Google cloud y los que me faltan de coursera
+=======
+Esta es la prueba de Concepto general. La idea es aprender mucho de tecnología.
+
+La idea es ahcer 2 de Platzi y terminar varios de coursera
+>>>>>>> cabecera
